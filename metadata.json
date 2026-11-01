@@ -1,0 +1,6 @@
+{
+  "name": "Operation NEET 360",
+  "description": "Personal study productivity workspace for NEET aspirants featuring syllabus tracker, focus chamber, daily/weekly planner, mock test logs, habit tracking, and local-first data backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
